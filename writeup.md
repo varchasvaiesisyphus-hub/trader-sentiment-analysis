@@ -51,3 +51,15 @@ However, they significantly change how traders trade.
 Fear regimes are characterized by elevated churn and fragmented execution, while Greed regimes show comparatively lower execution intensity.
 This suggests that sentiment affects trader behavior structurally, even when it does not materially alter aggregate performance outcomes.
 The impact of emotion appears behavioral rather than directional.
+
+Strategy Ideas Based on Findings
+
+1️. Control Overtrading During Fear
+Since traders significantly increase trade frequency during Fear without improving profitability, impose execution discipline.
+Rule: During Fear regimes, cap daily trade count or enforce a minimum trade size to prevent unnecessary position fragmentation and reduce transaction costs.
+
+2️. Reduce Leverage in Fear Regimes
+Fear increases behavioral intensity but does not improve returns.
+Rule: Automatically reduce leverage (e.g., 15–25%) during Fear days to control drawdown risk while keeping the same directional strategy.
+
+Core idea: Sentiment affects how traders trade, not how much they make — so strategies should focus on execution control and risk management, not chasing extra returns.
